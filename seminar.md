@@ -27,8 +27,6 @@ Ich wünsche Ihnen viel Spaß bei der Auseinandersetzung!
 > [!TIP]
 > Nehmen Sie sich für jede Woche etwa 30 bis 60 Minuten Zeit und machen Sie die Lernaktivitäten in den Abschnitten, um ihre Perspektiven zu reflektieren.
 
-![Kursbanner](./Bilder/Banner-PaedHandeln.png "Banner zum Kurs, [CC-Zero 1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode.de)")
-
 ---
 
 ## Woche 1: Einstieg – Pädagogische Professionalität und professionelles Handeln
@@ -55,6 +53,7 @@ arte Nachrichtensender (2026): Lernen der Zukunft: Macht KI in der Schule dumm? 
 <div style="height: 50px;"></div>
 
 > [!CAUTION] Bitte bearbeiten sie das H5P-Element
+> In diesem Dokumentationswerkzeug können Sie Ihre Gedanken zum Thema festhalten. Ihre Antworten werden nicht automatisch gespeichert. Gehen Sie dafür auf die letzte Seite „Antworten speichern“, wo Sie Ihre Überlegungen als Word-Datei auf Ihrem Computer speichern können. Klicken Sie dazu auf „Dokument erstellen“ und danach auf „Text exportieren“.
 > <iframe src="https://lgerber.uber.space/wp-admin/admin-ajax.php?action=h5p_embed&id=1" style="width: 100%; height: 500px; border: none;"></iframe>
 
 <div style="height: 50px;"></div>
@@ -105,6 +104,7 @@ Der folgende fiktive Fall wird uns durch das gesamte Seminar begleiten. Er wird 
 Stellen Sie sich vor, sie unterrichten an dieser Schule.
 
 > [!CAUTION] Bitte bearbeiten sie das H5P-Element
+> In diesem Dokumentationswerkzeug können Sie Ihre Gedanken zum Thema festhalten. Ihre Antworten werden nicht automatisch gespeichert. Gehen Sie dafür auf die letzte Seite „Antworten speichern“, wo Sie Ihre Überlegungen als Word-Datei auf Ihrem Computer speichern können. Klicken Sie dazu auf „Dokument erstellen“ und danach auf „Text exportieren“.
 > <iframe src="https://lgerber.uber.space/wp-admin/admin-ajax.php?action=h5p_embed&id=2" style="width: 100%; height: 725px; border: none;"></iframe>
 
 ---
