@@ -6,7 +6,7 @@ narrator: Deutsch Female
 comment: LiaScript-Kurs zum Seminar Pädagogisches Handeln unter den Bedigungen sozio-technischer Systeme in der Schule (Stand WiSe 2026/2027) von Lars Gerber lizenziert unter CC BY-SA 4.0 (sofern nicht anders an einzelnen Inhalten angegeben).
 -->
 
-# Digitaler Begleitkurs zum Vertiefungsseminar (WiSe 26/27)
+# Begleitkurs zum Vertiefungsseminar (WiSe 26/27)
 
 Herzlich willkommen bei unserem begleitenden Kurs zum Thema Pädagogisches Handeln unter den Bedingungen sozio-technischer Systeme in der Schule. Dieser [LiaScript](https://liascript.github.io/about/)-Kurs wurde an der FAU Erlangen-Nürnberg für ein Vertiefungsseminar im Modul Allgemcceine Pädagogik II entwickelt. Er dient unter anderem als inhaltlicher Auftakt der gesamten Lehrveranstaltung. Über 15 Wochen werden wir schulische Praktiken aus sozio-technischer Perspektive untersuchen. Dabei werden wir uns die leitende Frage stellen: Wie beeinflusst das Zusammenspiel digitaler Technologien, (pädagogischer) Akteur:innen und organisationaler Strukturen, was wir unter Wissen verstehen, wie Wissen produziert und vermittelt wird und wie Lernprozesse und Leistung bewertet werden? An einem fortlaufenden (fiktiven) Fall analysieren wir schulische Praktiken, in denen Lehrkräfte und Schüler:innen ebenso eine Rolle spielen wie Daten, Algorithmen, Plattformen, organisationale Regeln und technische Infrastrukturen. Der Kurs ist in erster Linie für Studierende von Lehramtsstudiengängen gedacht.
 
@@ -47,7 +47,7 @@ In der ersten Woche widmen wir uns einer ersten Annäherung an die Verändeurng 
 
 Haben Sie an ein generatives KI-Tool gedacht? Am 30. November 2022 veröffentlichte OpenAI mit ChatGPT ein Sprachmodell, das auf Texteingaben ausführliche und sprachlich oft überzeugende Antworten generieren konnte. Insbesondere im Bildungsbereich sorgte diese und weitere Anwendungen für Diskussionen über Potenziale und Konsequenzen für das Lernen und Lehren. Schauen Sie sich zur Einführung zunächst dieses Video an: 
 
-<iframe title="Lernen&#x20;der&#x20;Zukunft&#x3A;&#x20;Macht&#x20;KI&#x20;in&#x20;der&#x20;Schule&#x20;dumm&#x3F;" allowfullscreen="true" style="border:none;width:100%;height:100%;transition-duration:0;transition-property:no;margin:0 auto;position:relative;display:block;background-color:#000000;" src="https://www.arte.tv/embeds/de/121620-157-A?autoplay=false&mute=0"></iframe>
+<iframe title="Lernen&#x20;der&#x20;Zukunft&#x3A;&#x20;Macht&#x20;KI&#x20;in&#x20;der&#x20;Schule&#x20;dumm&#x3F;" allowfullscreen="true" style="border:none;width:100%;height:500px;transition-duration:0;transition-property:no;margin:0 auto;position:relative;display:block;background-color:#000000;" src="https://www.arte.tv/embeds/de/121620-157-A?autoplay=false&mute=0"></iframe>
 arte Nachrichtensender (2026): Lernen der Zukunft: Macht KI in der Schule dumm? Online unter [https://www.arte.tv/de/videos/121620-157-A/lernen-der-zukunft-macht-ki-in-der-schule-dumm/](https://www.arte.tv/de/videos/121620-157-A/lernen-der-zukunft-macht-ki-in-der-schule-dumm/
 
 <div style="height: 50px;"></div>
@@ -115,5 +115,26 @@ Wenn sie sich weiter für dieses Thema interessieren, finden sie hier wissenscha
 * Klar, Maria, und Johannes Schleiss. 2024. «Künstliche Intelligenz im Kontext von Kompetenzen, Prüfungen und Lehr-Lern-Methoden: Alte und neue Gestaltungsfragen». MedienPädagogik: Zeitschrift für Theorie und Praxis der Medienbildung 58 (März):41–57. [https://doi.org/10.21240/mpaed/58/2024.03.24.X](https://doi.org/10.21240/mpaed/58/2024.03.24.X).
 * Nemorin, Selena, Andreas Vlachidis, Hayford M. Ayerakwa, und Panagiotis Andriotis. 2023. «AI Hyped? A Horizon Scan of Discourse on Artificial Intelligence in Education (AIED) and Development». Learning, Media and Technology 48 (1): 38–51. [https://doi.org/10.1080/17439884.2022.2095568](https://doi.org/10.1080/17439884.2022.2095568).
 * Ng, Davy Tsz Kit, Jiahong Su, Jac Ka Lok Leung, und Samuel Kai Wah Chu. 2024. «Artificial Intelligence (AI) Literacy Education in Secondary Schools: A Review». Interactive Learning Environments 32 (10): 6204–24. [https://doi.org/10.1080/10494820.2023.2255228](https://doi.org/10.1080/10494820.2023.2255228).
+
+---
+
+## Woche 2: Einführung – Sozio-technische Perspektiven auf Schule
+
+In der zweiten Woche richten wir den Blick auf pädagogisches Handeln, indem wir Schule aus einer sozio-technischen Perspektive betrachten. Aufbauend auf den Seminarfall untersuchen wir, wie pädagogische Handlungen durch digitale Technologien, Daten, organisationalen Regeln und weiteren Bedingungen mitgeprägt werden. Damit soll die "realitätskonstruierende Rolle materieller und technischer Objekte und deren Verstrickung in soziale Gefüge" betont werden ([Brandau 2024, 37](https://openhsu.ub.hsu-hh.de/server/api/core/bitstreams/54234d37-b1f0-492b-b25e-04cb2cc948a6/content#page=47)). Ziel ist es den Einfluss sozio-technischer Systeme auf schulische Praxis zu reflektieren.
+
+> [!IMPORTANT]Leitfrage für diese Woche
+> Wie verändert sich das Verständnis pädagogischen Handelns, wenn Schule als sozio-technische Praxis betrachtet wird?
+
+---
+
+### Pädagogisches Handeln als komplexes Bedingungsgefüge
+
+---
+
+### Sozio-technische Betrachtungsweise als Annäherung
+
+---
+
+### (Weiterführende) Literatur
 
 ---
