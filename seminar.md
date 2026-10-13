@@ -8,7 +8,7 @@ comment: LiaScript-Kurs zum Seminar Pädagogisches Handeln unter den Bedigungen 
 
 # Begleitkurs zum Vertiefungsseminar (WiSe 26/27)
 
-Herzlich willkommen bei unserem begleitenden Kurs zum Thema Pädagogisches Handeln unter den Bedingungen sozio-technischer Systeme in der Schule. Dieser [LiaScript](https://liascript.github.io/about/)-Kurs wurde an der FAU Erlangen-Nürnberg für ein Vertiefungsseminar im Modul Allgemcceine Pädagogik II entwickelt. Er dient unter anderem als inhaltlicher Auftakt der gesamten Lehrveranstaltung. Über 15 Wochen werden wir schulische Praktiken aus sozio-technischer Perspektive untersuchen. Dabei werden wir uns die leitende Frage stellen: Wie beeinflusst das Zusammenspiel digitaler Technologien, (pädagogischer) Akteur:innen und organisationaler Strukturen, was wir unter Wissen verstehen, wie Wissen produziert und vermittelt wird und wie Lernprozesse und Leistung bewertet werden? An einem fortlaufenden (fiktiven) Fall analysieren wir schulische Praktiken, in denen Lehrkräfte und Schüler:innen ebenso eine Rolle spielen wie Daten, Algorithmen, Plattformen, organisationale Regeln und technische Infrastrukturen. Der Kurs ist in erster Linie für Studierende von Lehramtsstudiengängen gedacht.
+Herzlich willkommen bei unserem begleitenden Kurs zum Thema Pädagogisches Handeln unter den Bedingungen sozio-technischer Systeme in der Schule. Dieser [LiaScript](https://liascript.github.io/about/)-Kurs wurde an der FAU Erlangen-Nürnberg für ein Vertiefungsseminar im Modul Allgemeine Pädagogik II entwickelt. Er dient unter anderem als inhaltlicher Auftakt der gesamten Lehrveranstaltung. Über 15 Wochen werden wir schulische Praktiken aus sozio-technischer Perspektive untersuchen. Dabei werden wir uns die leitende Frage stellen: Wie beeinflusst das Zusammenspiel digitaler Technologien, (pädagogischer) Akteur:innen und organisationaler Strukturen, was wir unter Wissen verstehen, wie Wissen produziert und vermittelt wird und wie Lernprozesse und Leistung bewertet werden? An einem fortlaufenden (fiktiven) Fall analysieren wir schulische Praktiken, in denen Lehrkräfte und Schüler:innen ebenso eine Rolle spielen wie Daten, Algorithmen, Plattformen, organisationale Regeln und technische Infrastrukturen. Der Kurs ist in erster Linie für Studierende von Lehramtsstudiengängen gedacht.
 
 ---
 
@@ -47,14 +47,14 @@ In der ersten Woche widmen wir uns einer ersten Annäherung an die Verändeurng 
 
 Haben Sie an ein generatives KI-Tool gedacht? Am 30. November 2022 veröffentlichte OpenAI mit ChatGPT ein Sprachmodell, das auf Texteingaben ausführliche und sprachlich oft überzeugende Antworten generieren konnte. Insbesondere im Bildungsbereich sorgte diese und weitere Anwendungen für Diskussionen über Potenziale und Konsequenzen für das Lernen und Lehren. Schauen Sie sich zur Einführung zunächst dieses Video an: 
 
-<iframe title="Lernen&#x20;der&#x20;Zukunft&#x3A;&#x20;Macht&#x20;KI&#x20;in&#x20;der&#x20;Schule&#x20;dumm&#x3F;" allowfullscreen="true" style="border:none;width:100%;height:500px;transition-duration:0;transition-property:no;margin:0 auto;position:relative;display:block;background-color:#000000;" src="https://www.arte.tv/embeds/de/121620-157-A?autoplay=false&mute=0"></iframe>
+<iframe title="Lernen&#x20;der&#x20;Zukunft&#x3A;&#x20;Macht&#x20;KI&#x20;in&#x20;der&#x20;Schule&#x20;dumm&#x3F;" allowfullscreen="true" style="border:none;width:100%;height:auto;aspect-ratio: 16 / 9;transition-duration:0;transition-property:no;margin:0 auto;position:relative;display:block;background-color:#000000;" src="https://www.arte.tv/embeds/de/121620-157-A?autoplay=false&mute=0"></iframe>
 arte Nachrichtensender (2026): Lernen der Zukunft: Macht KI in der Schule dumm? Online unter [https://www.arte.tv/de/videos/121620-157-A/lernen-der-zukunft-macht-ki-in-der-schule-dumm/](https://www.arte.tv/de/videos/121620-157-A/lernen-der-zukunft-macht-ki-in-der-schule-dumm/
 
 <div style="height: 50px;"></div>
 
 > [!CAUTION] Bitte bearbeiten sie das H5P-Element
 > In diesem Dokumentationswerkzeug können Sie Ihre Gedanken zum Thema festhalten. Ihre Antworten werden nicht automatisch gespeichert. Gehen Sie dafür auf die letzte Seite „Antworten speichern“, wo Sie Ihre Überlegungen als Word-Datei auf Ihrem Computer speichern können. Klicken Sie dazu auf „Dokument erstellen“ und danach auf „Text exportieren“.
-> <iframe src="https://lgerber.uber.space/wp-admin/admin-ajax.php?action=h5p_embed&id=1" style="width: 100%; height: 500px; border: none;"></iframe>
+> <iframe src="https://lgerber.uber.space/wp-admin/admin-ajax.php?action=h5p_embed&id=1" style="width: 100%; height: 600px; border: none;"></iframe>
 
 <div style="height: 50px;"></div>
 
