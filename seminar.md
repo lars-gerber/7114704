@@ -8,8 +8,6 @@ comment: LiaScript-Kurs zum Seminar Pädagogisches Handeln unter den Bedigungen 
 
 # Pädagogisches Handeln unter den Bedingungen sozio-technischer Systeme in der Schule (WiSe 26/27)
 
-![Kursbanner](./Bilder/Banner-PaedHandeln.png "Banner zum Kurs, [CC-Zero 1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode.de)")
-
 Herzlich willkommen bei unserem begleitenden Kurs zum Thema Pädagogisches Handeln unter den Bedingungen sozio-technischer Systeme. Dieser [LiaScript](https://liascript.github.io/about/)-Kurs wurde an der FAU Erlangen-Nürnberg für ein Vertiefungsseminar im Modul Allgemcceine Pädagogik II entwickelt. Er dient unter anderem als inhaltlicher Auftakt der gesamten Lehrveranstaltung. Über 15 Wochen werden wir schulische Praktiken aus sozio-technischer Perspektive untersuchen. Dabei werden wir uns die leitende Frage stellen: Wie beeinflusst das Zusammenspiel digitaler Technologien, (pädagogischer) Akteur:innen und organisationaler Strukturen, was wir unter Wissen verstehen, wie Wissen produziert und vermittelt wird und wie Lernprozesse und Leistung bewertet werden? An einem fortlaufenden (fiktiven) Fall analysieren wir schulische Praktiken, in denen Lehrkräfte und Schüler:innen ebenso eine Rolle spielen wie Daten, Algorithmen, Plattformen, organisationale Regeln und technische Infrastrukturen. Der Kurs ist in erster Linie für Studierende von Lehramtsstudiengängen gedacht.
 
 Die formulierten Lernziele orientieren sich an Facetten professioneller Handlungskompetenz. Dazu gehören unter anderem folgende Kompetenzbereiche, die im Laufe dieses Kurses und der Präsenztermine adressiert werden:
@@ -22,6 +20,8 @@ Ich wünsche Ihnen viel Spaß bei der Auseinandersetzung!
 
 > [!TIP]
 > Nehmen Sie sich für jede Woche etwa 30 bis 60 Minuten Zeit und machen Sie die Lernaktivitäten in den Abschnitten, um ihre Perspektiven zu reflektieren.
+
+![Kursbanner](./Bilder/Banner-PaedHandeln.png "Banner zum Kurs, [CC-Zero 1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode.de)")
 
 ---
 
