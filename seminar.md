@@ -60,9 +60,12 @@ arte Nachrichtensender (2026): Lernen der Zukunft: Macht KI in der Schule dumm? 
 
 Das Video macht deutlich, dass mit dem Einsatz KI-gestützter Systeme in Schule unterschiedliche Erwartungen, Hoffnungen und Befürchtungen verbunden sind. Häufig wird dabei danach gefragt, welche Chancen und Risiken solche Technologien für Schule besitzen.
 
-Im Seminar möchten wir einen stärker analytische Perspektive einnehmen. Uns interessiert nicht, ob eine digitale Technologie für Unterricht „gut“ oder „schlecht“ ist. Wir wollen vielmehr danach fragen, wie sich schulische Praktiken verändern, wenn digitale Technologien, Daten, Lehrkräfte, Schüler:innen und organisationale Regeln relational betrachtet.
+Im Seminar möchten wir einen stärker analytische Perspektive einnehmen. Uns interessiert nicht, ob eine digitale Technologie für Unterricht „gut“ oder „schlecht“ ist. Wir wollen vielmehr danach fragen, wie sich schulische Praktiken verändern, wenn digitale Technologien, Daten, Lehrkräfte, Schüler:innen und organisationale Regeln relational betrachtet werden.
 
 Dazu widmen wir uns ausgehend von dieser skizzierten eher allgemeinen Diskussion einer konkreten schulischen Situation. 
+
+> [!TIP]
+> "Was ist eigentlich der Unterschied zwischen pädagogischer Professionalität und Professionalisierung? Pädagogische Professionalität bzw. professionelles pädagogisches Handeln ist ein Zustand der Könnerschaft hinsichtlich der spezifischen Herausforderungen der Erziehung und Bildung. Professionalisierung bezeichnet wiederum sowohl den Entwicklungsprozess einer Berufsgruppe zu einer gesellschaftlich anerkannten Profession mit eigenem Wirkungsgebiet als auch die systematische Weiterentwicklung des Wissens und Könnens der Professionellen und der Strukturen, in denen sie tätig sind. Zusammenfassend könnte man sagen, Professionalität ist für Lehrer/innen ein dauerhafter Anspruch und Professionalisierung die dauerhafte, dort hinführende Aufgabe." ([Idel et al. 2021, 18f.](https://doi.org/10.36198/9783838554617))
 
 ---
 
@@ -129,12 +132,73 @@ In der zweiten Woche richten wir den Blick auf pädagogisches Handeln, indem wir
 
 ### Pädagogisches Handeln als komplexes Bedingungsgefüge
 
+Kommen wir zurück zu unserem Fall an der Gemeinschaftsschule Am Birkenpark...
+
+> [!IMPORTANT] Episode 2 - „Ein ganz normaler Vormittag?“
+> {{|>}} Drei Woche nach dem Start des Pilotprojekts gehört LernRaum+ an der Gemeinschaftsschule Am Birkenpark bereits ein Stück weit zum Alltag. <br> <br>
+> Als Jana Berger am Dienstagmorgen das Lernstudio betritt, haben die meisten Schüler:innen ihre Tablets geöffnet. Einige arbeiten allein an ihren Lernplätzen, andere sitzen in kleinen Gruppen zusammen. In zehn Minuten beginnt der erste Fachimpuls des Tages. <br> <br>
+> Jana öffnet auf ihrem Tablet die Übersicht von LernRaum+. Drei Namen sind dort mit dem Hinweis„Unterstützungsbedarf prüfen“ markiert. Eine davon ist Nora. <br> <br>
+> Jana tippt auf Noras Profil. Das System zeigt mehrere fehlerhaft bearbeitete Aufgaben, häufig aufgerufene Hilfestellungen und den Vorschlag, zunächst einen bereits bearbeiteten Kompetenzbereich zu wiederholen. Eigentlich hatte Nora geplant, heute mit dem nächsten Thema zu beginnen. <br> <br>
+> „Warum bekomme ich schon wieder dieselben Aufgaben?“, fragt Nora ihren Mitschüler Jonas, der neben ihr sitzt. <br> <br>
+> Jonas schaut auf ihren Bildschirm. „Bei mir kam das gestern auch. Ich konnte einfach auf ‚später‘ klicken.“ <br> <br>
+> Nora sucht die entsprechende Schaltfläche. Bei ihr erscheint sie nicht. <br> <br>
+> Jana möchte gerade zu den beiden gehen, als am anderen Ende des Lernstudios Malik seinen Hilfeaufsteller auf den Tisch stellt. Sein Tablet hat die Verbindung zur Lernplattform verloren. Ohne Zugriff auf LernRaum kann er weder seine Materialien öffnen noch seinen aktuellen Arbeitsstand einsehen. <br> <br>
+> In diesem Moment kommt David Lorenz, der Koordinator für digitale Schulentwicklung, in den Raum. <br> <br>
+> „Falls heute etwas komisch aussieht: Wir haben gestern Abend ein Update eingespielt“, sagt er. „Bei einigen Accounts werden die Lernstände erst nach einer erneuten Anmeldung vollständig synchronisiert.“ <br> <br>
+> Jana blickt wieder auf Noras Profil. <br> <br>
+> „Dann könnte die Empfehlung bei Nora auf unvollständigen Daten beruhen?“ <br> <br>
+> „Möglich“, antwortet David. „Die Aufgaben von gestern müssten aber eigentlich übertragen worden sein.“ <br> <br>
+> Nora hat inzwischen das digitale Kompetenzraster geöffnet. Der nächste Lernbereich ist noch gesperrt. Die Fachgruppe hatte zu Beginn des Pilotprojekts vereinbart, dass ein neuer Bereich normalerweise erst dann freigeschaltet wird, wenn die vorherigen Aufgaben ausreichend bearbeitet wurden. Lehrkräfte können diese Sperre allerdings manuell aufheben. <br> <br>
+> „Frau Berger, kann ich trotzdem weitermachen?“, fragt Nora. „Jonas hat mir das gestern erklärt. Ich glaube, ich kann das jetzt.“ <br> <br>
+> Jana schaut auf die Uhr. In wenigen Minuten beginnt der Fachimpuls, zu dem Nora angemeldet ist. Malik wartet weiterhin auf Hilfe. Gleichzeitig zeigt ihr Tablet noch zwei weitere Schüler:innen an, bei denen LernRaum+ Unterstützungsbedarf vermutet. <br> <br>
+
+Ein vermutlich alltäglicher Schulvormittag – bei dem erstaunlich viel miteinander zusammenhängt.
+
+<div style="height: 25px;"></div>
+
+> [!CAUTION] Bitte bearbeiten sie das H5P-Element
+> In diesem Dokumentationswerkzeug können Sie Ihre Gedanken zum Thema festhalten. Ihre Antworten werden nicht automatisch gespeichert. Gehen Sie dafür auf die letzte Seite „Antworten speichern“, wo Sie Ihre Überlegungen als Word-Datei auf Ihrem Computer speichern können. Klicken Sie dazu auf „Dokument erstellen“ und danach auf „Text exportieren“.
+> <iframe src="https://lgerber.uber.space/wp-admin/admin-ajax.php?action=h5p_embed&id=3" style="width: 100%; height: 725px; border: none;"></iframe>
+
+<div style="height: 25px;"></div>
+
+Janas Entscheidung lässt sich damit zwar als individuelles pädagogisches Handeln beschreiben – sie entsteht jedoch innerhalb eines Gefüges von Bedingungen, die ihre Wahrnehmungs- und Handlungsmöglichkeiten mit strukturieren. Genau dieses Gefüge nehmen wir im Folgenden genauer in den Blick.
+
+<div style="height: 25px;"></div>
+
+Digitale Technologien eröffnen neue Möglichkeiten der Wissensaneignung, die stärker auf Selbststeuerung, Individualisierung und Kooperation ausgerichtet sind. Lernsettings in einer digital geprägten Welt ([Stalder 2016](https://search.ub.fau.de/vufind/Record/DE-604.BV047351465)) und die Forderung nach selbstgesteuertem Lernen ([Kopp & Mandl 2021](https://content-select.com/de/portal/media/view/5282483a-530c-4048-8910-11372efc1343)) verlangen von Lehrkräften ein neues Rollenverständnis. Statt primär Wissensvermittelnde zu sein, sollen Lehrkräfte Lernbegleitende werden. Der Kulturwandel erfordert neue Kompetenzen – insbesondere im Umgang mit digitalen Tools, in der Gestaltung von digitalen oder hybriden Lernumgebungen und in der individuellen Lernbegleitung. Lernende treten als Mitgestaltende in den Mittelpunkt. Es wird deutlich, dass die digitale Transformation ein neues Verständnis von Lehrprofessionalität erfordert, was neben fachlichen auch digitale Kompetenzen (zum Beispiel technische Fähigkeiten, Informationskompetenz, Kommunikationskompetenz, kritisches Denken und Datenschutz) adressiert.
+
+Während die frühen Debatten um Digitalisierung häufig von der Vorstellung eines disruptiven Wandels geprägt waren, rückt nun die Frage in den Mittelpunkt, wie digitale Technologien tief in gesellschaftliche Strukturen eingebettet sind und soziale, kulturelle und bildungsbezogene Prozesse mitgestalten. In anderen Beispielen betreffen die Ziele eine Reflexion über die Kultur der Digitalität, eine Analyse der konvivialen Gestaltung der eingesetzten Bildungsmedien oder die gemeinschaftliche Entwicklung von Konzepten für eine gerechtere Schule oder Gesellschaft. Diese Ziele sind nicht alle neu, aber die Art und Weise, wie sie erreicht werden sollen, ist es. Sie umfasst sowohl architektonische als auch soziale und technologische Änderungen. „Innovation in Schule“ wird hier nicht als die Einführung von Tablets, VR, AR oder KI verstanden, sondern als die subtile Transformation der schulischen Alltagspraktiken. Die  Verflechtung  zwischen  datengenerierenden  und  -prozessierenden  Kommunikationstechnologien und gesellschaftlichem Wandel wirft fundamentale Fragen bezüglich des Auftrags und der Gestaltung von Schulen auf ([Bock et al. 2023](); [Hartong et al. 2021]()). 
+
 ---
 
 ### Sozio-technische Betrachtungsweise als Annäherung
 
+Der Diskurs um den Einsatz von digitalen Medien in Schule und Unterricht wird oft sehr auf konkrete Technik bezogen geführt ([Macgilchrist 2020](https://www.forumbd.de/magazin/postdigitale-schule/)). In Forschungsprojekten wird danach gefragt, wie digitale Technologien dazu beitragen (können), Unterricht effizienter zu gestalten, Leistungen von Schüler:innen zu verbessern oder ihre individuellen Lernverläufe zu optimieren (u.a. [Proske et al. 2023](); [Gerjets und Scheiter 2019](); [Spiegler et al. 2023](https://doi.org/10.35468/6020-08); [Kaspar et al. 2020](https://doi.org/10.25656/01:21043)). Gleichzeitig werden aber auch Fragen nach demokratischer Teilhabe, sozialem Miteinander und gerechter Bildungsteilhabe diskutiert ([Schreiber-Kehrhahn & Bock 2026](https://www.medienpaed.com/article/view/2576/1641)). Prägende Effekte, die die zunehmende Einbindung digitaler Technologien auf das Bildungssystem, die Transformation von Lernumgebungen oder ein grundsätzlicher Haltungs- und Kulturwandel haben könnte, treten in Bezug auf stärker durch Individualisierungs- und in Teilen Optimierungstendenzen geprägte Debatten, die beispielsweise in Studien zu Potenzialen von adaptiven Lernsystemen sichtbar werden ([Weich et al. 2021](https://doi.org/10.21240/mpaed/44/2021.10.27.X)), in den Hintergrund ([Macgilchrist 2020](https://www.forumbd.de/magazin/postdigitale-schule/)). Wie könnten jedoch alternative Betrachtungskonzepte von Schule nach dem Fokus auf Digitalisierung aussehen? 
+
+<div style="height: 25px;"></div>
+
+> [!CAUTION] Lektüre (circa 15 Minuten)
+> Bitte lesen Sie hierzu den Text "Digitale Bildungsmedien im Diskurs. Wertesysteme, Wirkkraft und alternative Konzepte" von Felicitas Macgilchrist (2019). In Ihrem Beitrag skizziert sie den dominanten Diskurs rund um Bildung und Digitalität in Politik, Nachrichten und Bildungsmedienindustrie sowie Diskussionslinien, die aus Bildungspraxis und Bildungsaktivismus entstehen.o
+>
+> Online abrufbar: [https://www.bpb.de/shop/zeitschriften/apuz/293124/digitale-bildungsmedien-im-diskurs/](https://www.bpb.de/shop/zeitschriften/apuz/293124/digitale-bildungsmedien-im-diskurs/)
+
+<div style="height: 25px;"></div>
+
+Das Betrachtungskonzept postdigitaler Pädagogik aufgreifend werden in den Debatten um postdigitale Praktiken in der Bildung die kritische Reflexion unseres Umgangs mit Technologien häufiger in den Mittelpunkt gestellt. Wie beispielsweise Petar Jandrić et al. (2019) schreiben:
+> „the postdigital is about dragging digitalisation and the digital – kicking and screaming – down from its discursive celestial, ethereal home and into the mud. It is about rubbing its nose in the complexities of everyday practice, such as managing a class of 7-year olds working on tablets (half of them not charged and the other half with links to dubious sites); the realities of gender or racial bias of algorithms or how notions of imagined efficiency gains brought about by ‘the digital’ impact on work-life balance in organisations.“ ([Jandrić 2019, 166](https://doi.org/10.1007/s42438-018-0011-x))
+
+<div style="height: 50px;"></div>
+
+> [!NOTE]
+> Sozio-technische Systeme, also das Zusammenspiel von digitalen Technologien, gesellschaftlichen Akteur:innen und organisationalen Strukturen beeinflussen zunehmend, was wir unter Wissen verstehen, wie Wissen produziert, vermittelt oder bewertet wird. Während sozio-technische Systeme neue Möglichkeiten für Lehr- und Lernprozesse eröffnen sollen (u. a. Differenzierung, Individualisierung, Adaption, Inklusion), stellen sie gleichzeitig etablierte Bildungskonzepte infrage ([de Witt und Leineweber 2020](https://doi.org/10.21240/mpaed/39/2020.12.03.X)).
+
 ---
 
 ### (Weiterführende) Literatur
+Wenn sie sich weiter für dieses Thema interessieren, finden sie hier wissenschaftliche Veröffentlichungen zur weiterführenden Auseinandersetzung: 
+* Helbig, C., Gädeke, E. Verantwortung als professionsethische Reflexionsfigur. Medienpädagogische Professionalisierung unter postdigitalen Bedingungen.. Z f Bildungsforsch (2026). [https://doi.org/10.1007/s35834-026-00554-4](https://doi.org/10.1007/s35834-026-00554-4)
+* Leineweber, Christian, und Maik Wunder. 2021. «Zum Optimierenden Geist Der Di-gitalen Bildung: Bemerkungen Zu Adaptiven Lernsystemen Als Sozio-Technische Gefüge». MedienPädagogik. Zeitschrift für Theorie und Praxis der Medienbildung 42 (Optimierung): 22 – 46. [https://doi.org/10.21240/mpaed/42/2021.03.08.X](https://doi.org/10.21240/mpaed/42/2021.03.08.X)
+* Weich, Andreas, Philipp Deny, Marvin Priedigkeit, und Jasmin Troeger. 2021. «Adap-tive Lernsysteme zwischen Optimierung und Kritik: Eine Analyse der Medien-konstellationen bettermarks aus informatischer und medienwissenschaftlicher Perspektive». MedienPädagogik. Zeitschrift für Theorie und Praxis der Medienbildung44: 22 – 51. [https://doi.org/10.21240/mpaed/44/2021.10.27.X](https://doi.org/10.21240/mpaed/44/2021.10.27.X).
 
 ---
