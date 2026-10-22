@@ -202,3 +202,57 @@ Wenn sie sich weiter für dieses Thema interessieren, finden sie hier wissenscha
 * Weich, Andreas, Philipp Deny, Marvin Priedigkeit, und Jasmin Troeger. 2021. «Adap-tive Lernsysteme zwischen Optimierung und Kritik: Eine Analyse der Medien-konstellationen bettermarks aus informatischer und medienwissenschaftlicher Perspektive». MedienPädagogik. Zeitschrift für Theorie und Praxis der Medienbildung44: 22 – 51. [https://doi.org/10.21240/mpaed/44/2021.10.27.X](https://doi.org/10.21240/mpaed/44/2021.10.27.X).
 
 ---
+
+## Woche 3: Von wem wird Unterricht mitgestaltet? – Soziomaterialität als Perspektive
+
+In der dritten Woche vertiefen wir die sozio-technische Betrachtungsweise mit einer soziomateriellen Perspektive auf Schule und Unterricht. Ausgehend vom Seminarfall untersuchen wir, wie schulische Praxis im Zusammenspiel von Lehrkräften, Schüler:innen, Dingen, digitalen Technologien, räumlichen Anordnungen, Regeln und Routinen hervorgebracht wird. Im Mittelpunkt steht dabei nicht die Frage, welche einzelnen Faktoren Unterricht beeinflussen, sondern wie soziale und materielle Elemente in ihren Relationen wirksam werden. Ziel ist es, Materialitäten nicht nur als äußere Rahmenbedingungen, sondern als konstitutiven Bestandteil pädagogischer Praxis zu verstehen und diese Perspektive für die Analyse konkreter schulischer Situationen zu nutzen.
+
+> [!IMPORTANT]Leitfrage für diese Woche
+> Wie verändert sich das Verständnis pädagogischen Handelns, wenn Schule als sozio-technische Praxis betrachtet wird?
+
+---
+
+### Soziomaterialität als analytische Perspektive
+
+Schule sind von Artefakten und Dingen durchzogen. Räume, Tafeln, Bücher, Tablets oder Plattformen sind nicht bloß Kulisse – sie sind an der Hervorbringung schulischer Praxis beteiligt (Dohmen & Herzmann 2021). Entscheidend ist der situierte Gebrauch von Dingen: Was Menschen mit Artefakten tun sowie was deren Beschaffenheit, Bedeutungen und Verwendungszusammenhänge ermöglichen, nahelegen oder begrenzen (Gebhard et al. 2015). Über die Relationen wird sichtbar, wie Lernen organisiert, Unterricht prozessiert und schulische Ordnungen stabilisiert, verändert oder auch widerständig unterlaufen werden (Gebhard et al. 2015).
+
+<div style="height: 25px;"></div>
+
+Schauen Sie sich zur Einführung zunächst die Videos zur Alemannenschule Wutöschingen als Fallbeispiel an. Machen Sie sich Notizen, wie und welche Artefakte und Dinge die pädagogische Praxis an der Alemannenschule prägen. 
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gU_EbnKESVo?si=Q7w8yaJYw8jCZbV1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Forum Bildung Digitalisierung(2020): Individualisiertes Lernen: Schulporträt Alemannenschule Wutöschingen. Online unter [https://www.youtube.com/watch?v=gU_EbnKESVo](https://www.youtube.com/watch?v=gU_EbnKESVo)
+
+<div style="height: 50px;"></div>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Bk-kF1GctDE?si=EGyuPvWgMHoQwpNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Deutscher Schulpreis (2019): Deutscher Schulpreis 2019: Alemannenschule Wutöschingen. Online unter [https://www.youtube.com/watch?v=Bk-kF1GctDE](https://www.youtube.com/watch?v=Bk-kF1GctDE)
+
+<div style="height: 50px;"></div>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UcMujS5lgEk?si=MeYjGH7gx__tftLR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ACS Group (2023): No Ordinary School | Alemannenschule Wutöschingen. Online unter [https://www.youtube.com/watch?v=UcMujS5lgEk](https://www.youtube.com/watch?v=UcMujS5lgEk)
+
+<div style="height: 50px;"></div>
+
+<div style="height: 50px;"></div>
+
+> [!CAUTION] Gruppenaufgabe (30 Minuten)
+> Rekonstruieren Sie in Gruppen die pädagogische Praxis am Fallbeispiel als sozio-materielle Konstellation.
+>
+> 2) Menschen und Artefakte identifizieren: Erfassen, wer und was an der Situation beteiligt ist. Dies könnten Schüler:innen, Lehrkräfte, Tablets, Aufgaben, Möbel, Räume, Plattformen, Daten oder schulische Regeln sein.
+> 3) Relationen sichtbar machen: Die Elemente werden relational angeordnet. Linien zeigen Abhängigkeiten. Untersuchen, wie Menschen und Dinge aufeinander bezogen sind: Was wird mit Artefakten getan? Welche Handlungen ermöglichen, strukturieren oder begrenzen sie?
+> 4) Ordnungen rekonstruieren: Analysieren, welche schulischen Routinen, Rollen und Ordnungen aus diesen Relationen entstehen. Wie wird die konkrete Unterrichtspraxis durch das Zusammenspiel von Menschen und Dingen hervorgebracht und stabilisiert?
+>
+
+<div style="height: 25px;"></div>
+
+---
+
+### (Weiterführende) Literatur
+Wenn sie sich weiter für dieses Thema interessieren, finden sie hier wissenschaftliche Veröffentlichungen zur weiterführenden Auseinandersetzung: 
+* Asbrand, B., Martens, M. & Petersen, D. (2013). Die Rolle der Dinge in schulischen Lehr-Lernprozessen. Zeitschrift für Erziehungswissenschaft , 16  (2),  171–188. https://doi.org/10.1007/s11618-013-0413-1
+* Dohmen, T. & Herzmann, P. (2021). Artefakte und Ding-Praktiken. Über das Sichtbarmachen der Soziomaterialität von Schule und Unterricht in Praxisphasen der Lehrerinnen- und Lehrerbildung. In: "Grau, theurer Freund, ist alle Theorie"? Theorien und Erkenntniswege Schul- und Berufspraktischer Studien, S. 281-296. Münster: Waxmann.
+* Gebhard, U., Hummrich, M., Rabenstein, K. & Reh, S. (2015). Räume, Dinge und schulisches Wissen. Eine Einführung. Zeitschrift für interpretative Schul- und Unterrichtsforschung, 4,  3–14. https://doi.org/10.3224/zisu.v4i1.21311 
+* Rabenstein, K. (2018). Ding-Praktiken. Zur sozio-materiellen Dimension von Unterricht. In M. Proske & K. Rabenstein (Hrsg.), Kompendium qualitative Unterrichtsforschung. Unterricht beobachten – beschreiben – rekonstruieren  (S. 319–347). Bad Heilbrunn: Klinkhardt.
+* Rabenstein, K. & Wienike, J. (2012). Der Blick auf die Dinge des Lernens. Überlegungen zur Beobachtung der materiellen Dimension pädagogischer Praktiken. In H. de Boer & S. Reh (Hrsg.), Beobachtung in der Schule – Beobachten lernen  (S. 189–202). Wiesbaden: VS Verlag für Sozialwissenschaft en. https://doi.org/10.1007/978-3-531-18938-3_10 
