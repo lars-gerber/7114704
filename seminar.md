@@ -235,15 +235,12 @@ ACS Group (2023): No Ordinary School | Alemannenschule Wutöschingen. Online unt
 
 <div style="height: 50px;"></div>
 
-<div style="height: 50px;"></div>
-
 > [!CAUTION] Gruppenaufgabe (30 Minuten)
 > Rekonstruieren Sie in Gruppen die pädagogische Praxis am Fallbeispiel als sozio-materielle Konstellation.
 >
 > 2) Menschen und Artefakte identifizieren: Erfassen, wer und was an der Situation beteiligt ist. Dies könnten Schüler:innen, Lehrkräfte, Tablets, Aufgaben, Möbel, Räume, Plattformen, Daten oder schulische Regeln sein.
 > 3) Relationen sichtbar machen: Die Elemente werden relational angeordnet. Linien zeigen Abhängigkeiten. Untersuchen, wie Menschen und Dinge aufeinander bezogen sind: Was wird mit Artefakten getan? Welche Handlungen ermöglichen, strukturieren oder begrenzen sie?
 > 4) Ordnungen rekonstruieren: Analysieren, welche schulischen Routinen, Rollen und Ordnungen aus diesen Relationen entstehen. Wie wird die konkrete Unterrichtspraxis durch das Zusammenspiel von Menschen und Dingen hervorgebracht und stabilisiert?
->
 
 <div style="height: 25px;"></div>
 
