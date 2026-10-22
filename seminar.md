@@ -203,7 +203,7 @@ Wenn sie sich weiter für dieses Thema interessieren, finden sie hier wissenscha
 
 ---
 
-## Woche 3: Von wem wird Unterricht mitgestaltet? – Soziomaterialität als Perspektive
+## Woche 3: Von wem wird Unterricht mitgestaltet – Soziomaterialität als Perspektive
 
 In der dritten Woche vertiefen wir die sozio-technische Betrachtungsweise mit einer soziomateriellen Perspektive auf Schule und Unterricht. Ausgehend vom Seminarfall untersuchen wir, wie schulische Praxis im Zusammenspiel von Lehrkräften, Schüler:innen, Dingen, digitalen Technologien, räumlichen Anordnungen, Regeln und Routinen hervorgebracht wird. Im Mittelpunkt steht dabei nicht die Frage, welche einzelnen Faktoren Unterricht beeinflussen, sondern wie soziale und materielle Elemente in ihren Relationen wirksam werden. Ziel ist es, Materialitäten nicht nur als äußere Rahmenbedingungen, sondern als konstitutiven Bestandteil pädagogischer Praxis zu verstehen und diese Perspektive für die Analyse konkreter schulischer Situationen zu nutzen.
 
